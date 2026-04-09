@@ -29,6 +29,28 @@ I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/youssef-abdelghfar-94a6631a9">
+    <img src="https://img.shields.io/badge/LinkedIn-YousefSinger-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  
+  <a href="mailto:yosefsnger@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yosefsnger@gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  
+  <a href="https://github.com/yousefsinger">
+    <img src="https://img.shields.io/badge/GitHub-yousefsinger-black?style=for-the-badge&logo=github"/>
+  </a>
+  
+  <a href="tel:+201123553511">
+    <img src="https://img.shields.io/badge/Phone-+201123553511-green?style=for-the-badge&logo=whatsapp"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 ## 🧠 Core Competencies
 
 - **Flutter Development:** High-performance cross-platform apps  
