@@ -40,10 +40,6 @@ I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and
     <img src="https://img.shields.io/badge/Email-yosefsnger@gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
   
-  <a href="https://github.com/yousefsinger">
-    <img src="https://img.shields.io/badge/GitHub-yousefsinger-black?style=for-the-badge&logo=github"/>
-  </a>
-  
   <a href="tel:+201123553511">
     <img src="https://img.shields.io/badge/Phone-+201123553511-green?style=for-the-badge&logo=whatsapp"/>
   </a>
