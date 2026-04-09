@@ -41,10 +41,6 @@ I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and
 - **Version Control:** Git & Agile teamwork.
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
 ## 🛠️ Key Skills
 
 - Flutter
@@ -57,9 +53,6 @@ I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and
 - UI/UX
 - Agile
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
 ## 🚀 Projects & Achievements
 
 - 📱 Mobile Apps using Flutter  
@@ -67,16 +60,16 @@ I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and
 - 🔥 Clean Architecture Projects  
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
 ## 📊 Contributions Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefsinger&theme=react-dark" />
 </p>
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## 📈 Github Stats
 
