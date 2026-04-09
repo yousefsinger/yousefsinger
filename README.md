@@ -30,7 +30,7 @@ I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and
 
 - **Flutter Development:** High-performance cross-platform apps  
 - **Dart Programming:** Clean and scalable code  
-- **State Management:** Provider, Riverpod, Bloc  
+- **State Management:** Provider, cubit, Bloc  
 - **RESTful APIs:** API integration  
 - **Firebase:** Auth, Firestore, Storage  
 - **UI/UX:** Responsive design  
