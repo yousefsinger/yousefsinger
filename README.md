@@ -25,7 +25,9 @@
 
 I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and Dart, focused on building high-performance, scalable applications with smooth user experiences. I am passionate about applying clean architecture principles and writing maintainable, efficient code.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## 🧠 Core Competencies
 
@@ -38,7 +40,10 @@ I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and
 - **Performance Optimization**Faster loads, smooth UX.
 - **Version Control:** Git & Agile teamwork.
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## 🛠️ Key Skills
 
@@ -52,16 +57,19 @@ I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and
 - UI/UX
 - Agile
 
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 ## 🚀 Projects & Achievements
 
 - 📱 Mobile Apps using Flutter  
 - ⚙️ Admin Panels & APIs  
 - 🔥 Clean Architecture Projects  
 
----
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 ## 📊 Contributions Graph
 
 <p align="center">
