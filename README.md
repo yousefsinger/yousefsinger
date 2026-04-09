@@ -19,11 +19,6 @@
 ---
 
 ## 🧑‍💻 About
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
-</p>
-
 🚀 **Junior Mobile Engineer | Flutter Developer | Mobile Enthusiast**
 
 I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and Dart, focused on building high-performance, scalable applications with smooth user experiences. I am passionate about applying clean architecture principles and writing maintainable, efficient code.
