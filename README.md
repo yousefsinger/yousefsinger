@@ -32,7 +32,7 @@ I am **Yousef Abdelghfar**, a **Junior Mobile Engineer** specializing in Flutter
 - **Dart Programming:** Clean and scalable code  
 - **State Management:** Provider, Cubit, Bloc.
 - **RESTful APIs:** API integration  
-- **Firebase:**Auth, Firestore, Realtime DB, Cloud Storage. 
+- **Firebase:** Auth, Firestore, Realtime DB, Cloud Storage. 
 - **UI/UX:** Responsive design  
 - **Performance Optimization**Faster loads, smooth UX.
 - **Version Control:** Git & Agile teamwork.
