@@ -93,8 +93,7 @@ I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-## 📈 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefsinger&show_icons=true&theme=radical" />
+  <a href="#top">⬆️ Back to Top</a>
 </p>
