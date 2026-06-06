@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yousef Abdelghfar 👋</h1>
+<h1 align="center">Hi, I'm Yousef Ahmed 👋</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gcp,git,figma,androidstudio,postman,tailwind" />
@@ -23,7 +23,7 @@
 ## 🧑‍💻 About
 🚀 **Junior Mobile Engineer | Flutter Developer | Mobile Enthusiast**
 
-I am **Yousef Singer**, a **Junior Mobile Engineer** specializing in Flutter and Dart, focused on building high-performance, scalable applications with smooth user experiences. I am passionate about applying clean architecture principles and writing maintainable, efficient code.
+I am **Yousef Ahmed**, a **Junior Mobile Engineer** specializing in Flutter and Dart, focused on building high-performance, scalable applications with smooth user experiences. I am passionate about applying clean architecture principles and writing maintainable, efficient code.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
